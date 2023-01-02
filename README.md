@@ -1,1 +1,1 @@
-# git-training
+# some-else
